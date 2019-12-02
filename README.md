@@ -9,10 +9,6 @@ For [A-Frame](https://aframe.io).
 
 ### API
 
-| Property  | Description       | Default Value |
-| log       | enable logs       | false         |
-| modelUrl  | URL for the model | model.pcd     |
-
 ### Installation
 
 #### Browser
